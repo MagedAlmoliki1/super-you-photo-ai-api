@@ -1,4 +1,3 @@
-```markdown
 # AI Photo Generator API
 
 This project demonstrates how to build an API that trains and generates photos using AI, featuring custom images. The API is built with FastAPI, integrates with cloud-based services, supports various image formats for AI-based photo generation, and includes support for Large Language Models (LLMs) for advanced features such as natural language image description, tagging, and more.
